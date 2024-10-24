@@ -1,0 +1,24 @@
+html {
+  scroll-behavior: smooth; 
+}
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-color:linear-gradient(109.6deg, rgb(36, 45, 57) 11.2%, rgb(16, 37, 60) 51.2%, rgb(0, 0, 0) 98.6%);
+}
+@keyframes border-animation {
+  0% {
+    border-color: rgb(90, 3, 148);
+  }
+  50% {
+    border-color: rgb(217, 1, 188);
+  }
+  100% {
+    border-color: rgb(90, 3, 148);
+  }
+}
+
+.animated-border {
+  animation: border-animation 2s infinite;
+}
+
