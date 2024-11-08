@@ -95,8 +95,8 @@ export const projects = {
         title: 'Github Glazer',
         description:
           "GitHub Glazer is a React app built with Vite that glazes your GitHub profile. Simply enter a GitHub username, and the app fetches the user's profile information and repositories. It then uses OpenAI's GPT-3.5 to glaze your profile.",
-        liveLink: 'https://git-hub-glazer.vercel.app/',
-        githubLink: 'https://github.com/Pvpkishore/GitHub_glazer',
+          liveLink: 'https://github-glazer-kishore.vercel.app/',
+          githubLink: 'https://github.com/Pvpkishore/GitHub_glazer',
       },
         {
           id: 11,
@@ -105,8 +105,8 @@ export const projects = {
           title: 'Portfolio v2.0.0',
           description:
             'This portfolio project, created with React.js, Tailwind CSS, and GSAP animations, showcases experience, skills, projects, and contact sections in a visually engaging manner. The responsive design leverages Tailwind CSS for styling, while GSAP provides smooth animations for a dynamic user experience.',
-          liveLink: '#',
-          githubLink: '#',
+            liveLink: 'https://pvpkishore.vercel.app/',
+            githubLink: 'https://github.com/Pvpkishore/Pvpkishore_v2.00',
         },
         {
           id: 12,
@@ -183,7 +183,7 @@ export const projects = {
       
       // Add more Backend projects here...
     ],
-    fullstack: [
+    MERNStack: [
       // Add Full Stack projects here...
       {
         id: 19,
