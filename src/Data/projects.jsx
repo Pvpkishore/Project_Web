@@ -90,7 +90,7 @@ export const projects = {
   react: [
     {
       id: 10,
-      imgSrc: '/src/Assets/ReactScreenshots/Screenshot (55).png',
+      imgSrc: '/src/Assets/ReactScreenshots/Screenshot(55).png',
       alt: 'Github Glazer Screenshot',
       title: 'Github Glazer',
       description:
