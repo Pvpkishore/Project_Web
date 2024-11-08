@@ -12,7 +12,7 @@ export const projects = {
     },
     {
       id: 2,
-      imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot (64).png',
+      imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot(64).png',
       alt: 'News Flash Screenshot',
       title: 'News Flash',
       description:
@@ -22,7 +22,7 @@ export const projects = {
     },
     {
       id: 3,
-      imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot (69).png',
+      imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot(69).png',
       alt: 'MusicX Screenshot',
       title: 'MusicX',
       description:
@@ -32,7 +32,7 @@ export const projects = {
     },
       {
         id: 4,
-        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot (96).png',
+        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot(96).png',
         alt: 'Proffesional Todo-List Screenshot',
         title: 'Proffesional Todo-List',
         description: 'Allows users to manage tasks efficiently, with the ability to add, mark as complete, or delete tasks. A built-in timer helps users track time for each task, enhancing productivity.',
@@ -41,7 +41,7 @@ export const projects = {
       },
       {
         id: 5,
-        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot (70).png',
+        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot(70).png',
         alt: 'Portfolio v1.0.0 Screenshot',
         title: 'Portfolio v1.0.0',
         description: 'The site features a responsive layout, with sections dedicated to highlighting personal or technical skills, showcasing completed projects with descriptions, and a contact form for direct communication.',
@@ -50,7 +50,7 @@ export const projects = {
       },
       {
         id: 6,
-        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot (71).png',
+        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot(71).png',
         alt: 'WeatherX Screenshot',
         title: 'WeatherX',
         description: 'This project uses HTML, CSS, JavaScript, and the RapidAPI to fetch and display weather data by entering a city name. Users can input a city, and the app retrieves real-time weather information such as temperature, humidity, and conditions, displaying it in a clean and responsive interface.',
@@ -59,7 +59,7 @@ export const projects = {
       },
       {
         id: 7,
-        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot (66).png',
+        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot(66).png',
         alt: 'Drum kit Screenshot',
         title: 'Drum kit',
         description: 'The Drum Kit project allows users to play different drum sounds by clicking buttons or pressing corresponding keys on the keyboard. Each drum sound is linked to a specific button, and JavaScript handles the interaction, triggering the sounds when a drum is played.',
@@ -68,7 +68,7 @@ export const projects = {
       },
       {
         id: 8,
-        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot (65).png',
+        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot(65).png',
         alt: 'Dice Game Screenshot',
         title: 'Dice Game',
         description: 'The Dice Game project, built with HTML, CSS, and JavaScript, simulates a simple dice-rolling experience. Users can refresh the page to roll the dice, and the app randomly generates and displays the result on the screen.',
@@ -77,7 +77,7 @@ export const projects = {
       },
       {
         id: 9,
-        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot (88).png',
+        imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot(88).png',
         alt: 'Load more button API Call Screenshot',
         title: 'Load more button API Call',
         description: 'This project, built with JavaScript, and an API, implements a "Load More" button to fetch additional data dynamically. When users click the button, more content (such as articles, images, or items) is retrieved from the API and displayed on the page without refreshing.',
@@ -100,7 +100,7 @@ export const projects = {
     },
       {
         id: 11,
-        imgSrc: '/src/Assets/ReactScreenshots/Screenshot (92).png',
+        imgSrc: '/src/Assets/ReactScreenshots/Screenshot(92).png',
         alt: 'Portfolio v2.0.0 Screenshot',
         title: 'Portfolio v2.0.0',
         description:
@@ -110,7 +110,7 @@ export const projects = {
       },
       {
         id: 12,
-        imgSrc: '/src/Assets/ReactScreenshots/Screenshot (86).png',
+        imgSrc: '/src/Assets/ReactScreenshots/Screenshot(86).png',
         alt: 'Random Quote Generator Screenshot',
         title: 'Random Quote Generator',
         description:
@@ -120,7 +120,7 @@ export const projects = {
       },
       {
         id: 13,
-        imgSrc: '/src/Assets/ReactScreenshots/Screenshot (84).png',
+        imgSrc: '/src/Assets/ReactScreenshots/Screenshot(84).png',
         alt: 'Simple Form Validation Screenshot',
         title: 'Simple Form Validation',
         description:
@@ -130,7 +130,7 @@ export const projects = {
       },
       {
         id: 14,
-        imgSrc: '/src/Assets/ReactScreenshots/Screenshot (80).png',
+        imgSrc: '/src/Assets/ReactScreenshots/Screenshot(80).png',
         alt: 'Keeper App Screenshot',
         title: 'Keeper App',
         description:
@@ -140,7 +140,7 @@ export const projects = {
       },
       {
         id: 15,
-        imgSrc: '/src/Assets/ReactScreenshots/Screenshot (83).png',
+        imgSrc: '/src/Assets/ReactScreenshots/Screenshot(83).png',
         alt: 'Todo-List Screenshot',
         title: 'Todo-List',
         description:
@@ -155,7 +155,7 @@ export const projects = {
 
     {
       id: 16,
-      imgSrc: '/src/Assets/Backendscreenshots/Screenshot (90).png',
+      imgSrc: '/src/Assets/Backendscreenshots/Screenshot(90).png',
       alt: 'YouTube Video Converter Project Screenshot',
       title: 'Youtube Video Converter',
       description: 'The YouTube downloader converts YouTube URLs into downloadable files, ensuring seamless video retrieval and user interaction with efficient server-side logic and session management for a smooth experience.',
@@ -164,7 +164,7 @@ export const projects = {
     },
     {
       id: 17,
-      imgSrc: '/src/Assets/Backendscreenshots/Screenshot (89).png',
+      imgSrc: '/src/Assets/Backendscreenshots/Screenshot(89).png',
       alt: 'Let\'s Chat Project Screenshot',
       title: 'Let\'s Chat',
       description: 'The Real-Time Chat App, built with Node.js, JavaScript, and WebSocket.io, facilitates instant communication between users through a web interface. Utilizing WebSocket technology for low-latency messaging, the app allows multiple users to join chat rooms and exchange messages in real time without refreshing the page.',
@@ -195,7 +195,7 @@ export const projects = {
       githubLink: 'https://github.com/Pvpkishore/PassOP-MERN-',
     },
     { id: 20,
-    imgSrc: '/src/Assets/Backendscreenshots/Screenshot (95).png',
+    imgSrc: '/src/Assets/Backendscreenshots/Screenshot(95).png',
     alt: 'AI Talking Bot Project Screenshot',
     title: 'AI Talking Bot',
     description: 'AI Talking Chatbot, built using React.js, Express.js, and the OpenAI API, enables users to interact with an AI through voice commands. It can respond to queries, hold conversations, and perform actions like sending or resetting messages via voice commands.',
