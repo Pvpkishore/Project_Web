@@ -2,7 +2,7 @@ export const projects = {
   javascript: [
     {
       id: 1,
-      imgSrc: '/src/Assets/jsprojectscreenshots/Screenshot(62).png',
+      imgSrc: './src/Assets/jsprojectscreenshots/Screenshot(62).png',
       alt: 'GitHub Profile Finder Screenshot',
       title: 'GitHub Profile Finder',
       description:
