@@ -1,8 +1,10 @@
+import img1 from "../Assets/jsprojectscreenshots/Screenshot(64).png"
+
 export const projects = {
   javascript: [
     {
       id: 1,
-      imgSrc: '../../Assets/jsprojectscreenshots/Screenshot(64).png',
+      imgSrc: img1,
       alt: 'GitHub Profile Finder Screenshot',
       title: 'GitHub Profile Finder',
       description:
